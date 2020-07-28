@@ -1,0 +1,1 @@
+create table user (id number(20), name varchar(35), author varchar(32))
